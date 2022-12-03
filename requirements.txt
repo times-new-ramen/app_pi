@@ -3,8 +3,6 @@ bkcharts==0.2
 blinker==1.5
 brotlipy==0.7.0
 cachetools==5.2.0
-clyent==1.2.2
-commonmark==0.9.1
 comtypes==1.1.10
 conda==22.9.0
 conda-build==3.22.0
