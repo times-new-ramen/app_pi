@@ -42,9 +42,6 @@ semver==2.13.0
 statsmodels==0.13.2
 streamlit==1.15.1
 tables==3.6.1
-TBB==0.2
-tzdata==2022.6
-tzlocal==4.2
 validators==0.20.0
 webencodings==0.5.1
 win-unicode-console==0.5
