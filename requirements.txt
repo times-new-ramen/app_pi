@@ -11,7 +11,6 @@ dash==2.7.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-datashape==0.5.4
 DateTime==4.7
 emoji==2.2.0
 fonttools==4.25.0
